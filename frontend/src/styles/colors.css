@@ -1,0 +1,82 @@
+/* =====================================================================
+   E-RAKSHAN — color system
+   Palette derived from the platform architecture poster:
+   deep navy canvas, cyan/teal primaries, lime-green telemetry accents,
+   orange citizen-inputs accents, purple command-layer accents.
+   ===================================================================== */
+:root {
+  /* Canvas + surfaces */
+  --bg-0: #060b16;            /* app canvas */
+  --bg-1: #0a1322;            /* panels / sidebar */
+  --bg-2: #0f1b30;            /* cards */
+  --bg-3: #15263f;            /* raised cards / inputs */
+  --bg-4: #1c3050;            /* hover */
+  --glass: rgba(34, 211, 238, 0.05);
+  --glass-strong: rgba(15, 27, 48, 0.88);
+
+  /* Strokes */
+  --border: #1b2c47;
+  --border-soft: #13203a;
+  --border-bright: #2a4364;
+
+  /* Text */
+  --text: #e8f1ff;
+  --text-dim: #9fb2cc;
+  --text-faint: #5f7391;
+
+  /* Accents (from architecture poster) */
+  --cyan: #22d3ee;
+  --cyan-deep: #0891b2;
+  --cyan-soft: rgba(34, 211, 238, 0.14);
+  --teal: #2dd4bf;
+  --teal-soft: rgba(45, 212, 191, 0.14);
+  --green: #34d399;
+  --green-soft: rgba(52, 211, 153, 0.14);
+  --lime: #a3e635;
+  --lime-soft: rgba(163, 230, 53, 0.13);
+  --amber: #fbbf24;
+  --amber-soft: rgba(251, 191, 36, 0.14);
+  --orange: #fb923c;
+  --orange-soft: rgba(251, 146, 60, 0.15);
+  --red: #f87171;
+  --red-soft: rgba(248, 113, 113, 0.14);
+  --rose: #fb7185;
+  --purple: #a78bfa;
+  --purple-soft: rgba(167, 139, 250, 0.15);
+  --blue: #60a5fa;
+  --blue-soft: rgba(96, 165, 250, 0.14);
+  --pink: #f472b6;
+  --gray: #8296b3;
+  --gray-soft: rgba(130, 150, 179, 0.14);
+
+  /* Semantic risk bands (per the recommended classification) */
+  --risk-low: var(--green);
+  --risk-moderate: var(--amber);
+  --risk-high: var(--orange);
+  --risk-critical: var(--red);
+
+  /* Layer colors (map) */
+  --layer-habitation: #22d3ee;
+  --layer-redzone: #f87171;
+  --layer-safesite: #a3e635;
+  --layer-shelter: #34d399;
+  --layer-road: #60a5fa;
+  --layer-incident: #fb923c;
+  --layer-vehicle: #c084fc;
+
+  /* Gradients */
+  --grad-hero: linear-gradient(92deg, #22d3ee 0%, #67e8f9 35%, #a78bfa 100%);
+  --grad-primary: linear-gradient(135deg, #0891b2 0%, #22d3ee 100%);
+  --grad-danger: linear-gradient(135deg, #dc2626 0%, #f87171 100%);
+  --grad-panel: linear-gradient(180deg, rgba(34, 211, 238, 0.07), rgba(34, 211, 238, 0) 55%);
+  --grid-line: rgba(56, 96, 141, 0.14);
+
+  /* Chart palette */
+  --chart-1: #22d3ee;
+  --chart-2: #a78bfa;
+  --chart-3: #34d399;
+  --chart-4: #fbbf24;
+  --chart-5: #fb923c;
+  --chart-6: #60a5fa;
+  --chart-grid: rgba(95, 115, 145, 0.22);
+}

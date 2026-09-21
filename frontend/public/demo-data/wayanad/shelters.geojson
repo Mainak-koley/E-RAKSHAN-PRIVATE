@@ -1,0 +1,327 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.207,
+     11.714
+    ]
+   },
+   "properties": {
+    "id": "SHL-01",
+    "name": "Kalpetta School Relief Centre",
+    "type": "School Relief Centre",
+    "capacity": 1200,
+    "occupancy": 410,
+    "medical_support": true,
+    "water_kl": 45,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "DMO Wayanad",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.186,
+     11.707
+    ]
+   },
+   "properties": {
+    "id": "SHL-02",
+    "name": "Muttil Community Relief Hall",
+    "type": "Community Hall",
+    "capacity": 600,
+    "occupancy": 180,
+    "medical_support": true,
+    "water_kl": 22,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Muttil Panchayath",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.224,
+     11.699
+    ]
+   },
+   "properties": {
+    "id": "SHL-03",
+    "name": "Kambalakkad Civic Shelter",
+    "type": "Civic Complex",
+    "capacity": 850,
+    "occupancy": 240,
+    "medical_support": false,
+    "water_kl": 18,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Muttil Panchayath",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.146,
+     11.701
+    ]
+   },
+   "properties": {
+    "id": "SHL-04",
+    "name": "Meppadi Estate School Camp",
+    "type": "School Relief Centre",
+    "capacity": 700,
+    "occupancy": 520,
+    "medical_support": true,
+    "water_kl": 20,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Meppadi Panchayath",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.156,
+     11.744
+    ]
+   },
+   "properties": {
+    "id": "SHL-05",
+    "name": "Vythiri College Shelter",
+    "type": "Institutional Campus",
+    "capacity": 550,
+    "occupancy": 120,
+    "medical_support": true,
+    "water_kl": 15,
+    "sanitation_ok": false,
+    "operational": true,
+    "managed_by": "Vythiri Panchayath",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.291,
+     11.758
+    ]
+   },
+   "properties": {
+    "id": "SHL-06",
+    "name": "Panamaram GLP School Camp",
+    "type": "School Relief Centre",
+    "capacity": 750,
+    "occupancy": 300,
+    "medical_support": true,
+    "water_kl": 24,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Panamaram Panchayath",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.005,
+     11.801
+    ]
+   },
+   "properties": {
+    "id": "SHL-07",
+    "name": "Mananthavady Centenary Hall",
+    "type": "Community Hall",
+    "capacity": 900,
+    "occupancy": 260,
+    "medical_support": true,
+    "water_kl": 30,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Mananthavady Municipality",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.069,
+     11.812
+    ]
+   },
+   "properties": {
+    "id": "SHL-08",
+    "name": "Edavaka Relief Camp",
+    "type": "Community Hall",
+    "capacity": 400,
+    "occupancy": 60,
+    "medical_support": false,
+    "water_kl": 10,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Edavaka Panchayath",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.26,
+     11.661
+    ]
+   },
+   "properties": {
+    "id": "SHL-09",
+    "name": "Sultan Bathery Fort Camp",
+    "type": "Civic Complex",
+    "capacity": 1100,
+    "occupancy": 350,
+    "medical_support": true,
+    "water_kl": 40,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Sultan Bathery Municipality",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.218,
+     11.638
+    ]
+   },
+   "properties": {
+    "id": "SHL-10",
+    "name": "Ambalavayal RARS Shelter",
+    "type": "Institutional Campus",
+    "capacity": 650,
+    "occupancy": 150,
+    "medical_support": true,
+    "water_kl": 26,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Ambalavayal Panchayath",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.191,
+     11.618
+    ]
+   },
+   "properties": {
+    "id": "SHL-11",
+    "name": "Meenangadi School Camp",
+    "type": "School Relief Centre",
+    "capacity": 500,
+    "occupancy": 220,
+    "medical_support": true,
+    "water_kl": 14,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Meenangadi Panchayath",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.316,
+     11.609
+    ]
+   },
+   "properties": {
+    "id": "SHL-12",
+    "name": "Pulpally Parish Hall",
+    "type": "Community Hall",
+    "capacity": 550,
+    "occupancy": 190,
+    "medical_support": false,
+    "water_kl": 16,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Pulpally Panchayath",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.233,
+     11.587
+    ]
+   },
+   "properties": {
+    "id": "SHL-13",
+    "name": "Noolpuzha Tribal Relief Centre",
+    "type": "Community Hall",
+    "capacity": 350,
+    "occupancy": 90,
+    "medical_support": true,
+    "water_kl": 9,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Noolpuzha Panchayath",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.149,
+     11.774
+    ]
+   },
+   "properties": {
+    "id": "SHL-14",
+    "name": "Kenichira WHS Camp",
+    "type": "School Relief Centre",
+    "capacity": 450,
+    "occupancy": 70,
+    "medical_support": true,
+    "water_kl": 12,
+    "sanitation_ok": false,
+    "operational": true,
+    "managed_by": "Thavinhal Panchayath",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  }
+ ]
+}

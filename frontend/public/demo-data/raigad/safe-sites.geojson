@@ -1,0 +1,352 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.3,
+     18.8
+    ]
+   },
+   "properties": {
+    "id": "SITE-01",
+    "name": "Chowk Interim Relief Site",
+    "type": "Container Township",
+    "area_ha": 1.2,
+    "hazard_safety": 0.9,
+    "capacity_score": 0.55,
+    "connectivity": 0.97,
+    "terrain": 0.9,
+    "livelihood": 0.35,
+    "services": 0.8,
+    "suitability": 77.6,
+    "amenities": [
+     "water",
+     "sanitation",
+     "power"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.275,
+     18.815
+    ]
+   },
+   "properties": {
+    "id": "SITE-02",
+    "name": "Nanivali Rehabilitation Site (CIDCO)",
+    "type": "Permanent Settlement",
+    "area_ha": 1.8,
+    "hazard_safety": 0.93,
+    "capacity_score": 0.8,
+    "connectivity": 0.85,
+    "terrain": 0.85,
+    "livelihood": 0.8,
+    "services": 0.82,
+    "suitability": 85.6,
+    "amenities": [
+     "water",
+     "sanitation",
+     "power",
+     "medical"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.425,
+     18.086
+    ]
+   },
+   "properties": {
+    "id": "SITE-03",
+    "name": "Mahad Municipal Relief Ground",
+    "type": "Community Hall",
+    "area_ha": 2.9,
+    "hazard_safety": 0.92,
+    "capacity_score": 0.86,
+    "connectivity": 0.9,
+    "terrain": 0.88,
+    "livelihood": 0.82,
+    "services": 0.9,
+    "suitability": 88.7,
+    "amenities": [
+     "water",
+     "medical",
+     "power",
+     "sanitation"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.875,
+     18.644
+    ]
+   },
+   "properties": {
+    "id": "SITE-04",
+    "name": "Alibag Civil Station Campus",
+    "type": "Institutional Campus",
+    "area_ha": 3.6,
+    "hazard_safety": 0.94,
+    "capacity_score": 0.84,
+    "connectivity": 0.88,
+    "terrain": 0.9,
+    "livelihood": 0.84,
+    "services": 0.92,
+    "suitability": 89.3,
+    "amenities": [
+     "water",
+     "medical",
+     "power",
+     "sanitation"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.328,
+     18.912
+    ]
+   },
+   "properties": {
+    "id": "SITE-05",
+    "name": "Karjat College Campus",
+    "type": "School Campus",
+    "area_ha": 5.9,
+    "hazard_safety": 0.92,
+    "capacity_score": 0.82,
+    "connectivity": 0.92,
+    "terrain": 0.86,
+    "livelihood": 0.8,
+    "services": 0.86,
+    "suitability": 87.3,
+    "amenities": [
+     "water",
+     "sanitation",
+     "power"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.348,
+     18.787
+    ]
+   },
+   "properties": {
+    "id": "SITE-06",
+    "name": "Khopoli Civic Ground",
+    "type": "Civic Complex",
+    "area_ha": 4.0,
+    "hazard_safety": 0.9,
+    "capacity_score": 0.76,
+    "connectivity": 0.94,
+    "terrain": 0.86,
+    "livelihood": 0.78,
+    "services": 0.82,
+    "suitability": 85.2,
+    "amenities": [
+     "water",
+     "power",
+     "sanitation"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.082,
+     18.442
+    ]
+   },
+   "properties": {
+    "id": "SITE-07",
+    "name": "Roha Stadium Ground",
+    "type": "Elevated Ground",
+    "area_ha": 4.2,
+    "hazard_safety": 0.9,
+    "capacity_score": 0.72,
+    "connectivity": 0.84,
+    "terrain": 0.84,
+    "livelihood": 0.78,
+    "services": 0.74,
+    "suitability": 81.8,
+    "amenities": [
+     "water",
+     "sanitation"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.272,
+     18.262
+    ]
+   },
+   "properties": {
+    "id": "SITE-08",
+    "name": "Mangaon Panchayat Campus",
+    "type": "School Campus",
+    "area_ha": 5.0,
+    "hazard_safety": 0.88,
+    "capacity_score": 0.74,
+    "connectivity": 0.82,
+    "terrain": 0.84,
+    "livelihood": 0.82,
+    "services": 0.76,
+    "suitability": 81.9,
+    "amenities": [
+     "water",
+     "power"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.942,
+     18.33
+    ]
+   },
+   "properties": {
+    "id": "SITE-09",
+    "name": "Murud High School Campus",
+    "type": "School Campus",
+    "area_ha": 5.7,
+    "hazard_safety": 0.85,
+    "capacity_score": 0.74,
+    "connectivity": 0.78,
+    "terrain": 0.82,
+    "livelihood": 0.76,
+    "services": 0.72,
+    "suitability": 79.1,
+    "amenities": [
+     "water",
+     "power"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.098,
+     18.732
+    ]
+   },
+   "properties": {
+    "id": "SITE-10",
+    "name": "Pen Panchayat Hall",
+    "type": "Community Hall",
+    "area_ha": 1.7,
+    "hazard_safety": 0.89,
+    "capacity_score": 0.72,
+    "connectivity": 0.88,
+    "terrain": 0.84,
+    "livelihood": 0.78,
+    "services": 0.8,
+    "suitability": 82.7,
+    "amenities": [
+     "water",
+     "power",
+     "medical"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.12,
+     18.992
+    ]
+   },
+   "properties": {
+    "id": "SITE-11",
+    "name": "Panvel CIDCO Community Hall",
+    "type": "Community Hall",
+    "area_ha": 5.4,
+    "hazard_safety": 0.9,
+    "capacity_score": 0.8,
+    "connectivity": 0.96,
+    "terrain": 0.88,
+    "livelihood": 0.74,
+    "services": 0.9,
+    "suitability": 87.0,
+    "amenities": [
+     "water",
+     "medical",
+     "power",
+     "sanitation"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.992,
+     18.047
+    ]
+   },
+   "properties": {
+    "id": "SITE-12",
+    "name": "Shrivardhan Community Ground",
+    "type": "Elevated Ground",
+    "area_ha": 4.5,
+    "hazard_safety": 0.82,
+    "capacity_score": 0.62,
+    "connectivity": 0.74,
+    "terrain": 0.84,
+    "livelihood": 0.72,
+    "services": 0.58,
+    "suitability": 73.7,
+    "amenities": [
+     "water"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  }
+ ]
+}

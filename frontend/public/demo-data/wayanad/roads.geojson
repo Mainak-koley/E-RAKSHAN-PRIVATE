@@ -1,0 +1,655 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.225,
+      11.698
+     ],
+     [
+      76.205,
+      11.713
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-01",
+    "name": "NH-766 Kambalakkad\u2013Kalpetta",
+    "class": "NH",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Kambalakkad",
+     "Kalpetta"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.205,
+      11.713
+     ],
+     [
+      76.26,
+      11.7
+     ],
+     [
+      76.262,
+      11.66
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-02",
+    "name": "NH-766 Kalpetta\u2013Sultan Bathery",
+    "class": "NH",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Kalpetta",
+     "Chekadi",
+     "Sultan Bathery"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.205,
+      11.713
+     ],
+     [
+      76.235,
+      11.755
+     ],
+     [
+      76.292,
+      11.757
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-03",
+    "name": "SH-54 Kalpetta\u2013Panamaram",
+    "class": "SH",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Kalpetta",
+     "Padinjarethara",
+     "Panamaram"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.292,
+      11.757
+     ],
+     [
+      76.15,
+      11.775
+     ],
+     [
+      76.003,
+      11.802
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-04",
+    "name": "SH-54 Panamaram\u2013Mananthavady",
+    "class": "SH",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Panamaram",
+     "Kenichira",
+     "Mananthavady"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.003,
+      11.802
+     ],
+     [
+      76.02,
+      11.83
+     ],
+     [
+      75.98,
+      11.85
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-05",
+    "name": "Mananthavady\u2013Thirunelly Road",
+    "class": "District",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Mananthavady",
+     "Bavali",
+     "Thirunelly"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.145,
+      11.7
+     ],
+     [
+      76.135,
+      11.683
+     ],
+     [
+      76.128,
+      11.678
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-06",
+    "name": "Meppadi\u2013Chooralmala Ghat Road",
+    "class": "District",
+    "status": "partial",
+    "flood_depth_cm": 34,
+    "surface": "tarmac",
+    "connects": [
+     "Meppadi",
+     "Chooralmala",
+     "Mundakkai"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.135,
+      11.683
+     ],
+     [
+      76.142,
+      11.688
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-07",
+    "name": "Chooralmala\u2013Attamala Link",
+    "class": "Village",
+    "status": "blocked",
+    "flood_depth_cm": 95,
+    "surface": "tarmac",
+    "connects": [
+     "Chooralmala",
+     "Attamala"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.143,
+      11.756
+     ],
+     [
+      76.155,
+      11.745
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-08",
+    "name": "NH-766 Lakkidi\u2013Vythiri Ghat",
+    "class": "NH",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Lakkidi",
+     "Vythiri"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.205,
+      11.713
+     ],
+     [
+      76.185,
+      11.705
+     ],
+     [
+      76.145,
+      11.7
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-09",
+    "name": "Kalpetta\u2013Meppadi Road",
+    "class": "District",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Kalpetta",
+     "Muttil",
+     "Meppadi"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.262,
+      11.66
+     ],
+     [
+      76.217,
+      11.637
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-10",
+    "name": "Sultan Bathery\u2013Ambalavayal Road",
+    "class": "SH",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Sultan Bathery",
+     "Ambalavayal"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.217,
+      11.637
+     ],
+     [
+      76.19,
+      11.617
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-11",
+    "name": "Ambalavayal\u2013Meenangadi Road",
+    "class": "District",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Ambalavayal",
+     "Meenangadi"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.19,
+      11.617
+     ],
+     [
+      76.235,
+      11.585
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-12",
+    "name": "Meenangadi\u2013Noolpuzha Road",
+    "class": "District",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Meenangadi",
+     "Noolpuzha"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.262,
+      11.66
+     ],
+     [
+      76.25,
+      11.64
+     ],
+     [
+      76.318,
+      11.607
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-13",
+    "name": "Sultan Bathery\u2013Pulpally Road",
+    "class": "SH",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Sultan Bathery",
+     "Varadoor",
+     "Pulpally"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.292,
+      11.757
+     ],
+     [
+      76.09,
+      11.735
+     ],
+     [
+      76.1,
+      11.72
+     ],
+     [
+      76.09,
+      11.745
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-14",
+    "name": "Panamaram\u2013Pozhuthana Village Road",
+    "class": "Village",
+    "status": "partial",
+    "flood_depth_cm": 22,
+    "surface": "tarmac",
+    "connects": [
+     "Panamaram",
+     "Kaniambetta",
+     "Thariyode",
+     "Pozhuthana"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.003,
+      11.802
+     ],
+     [
+      76.07,
+      11.81
+     ],
+     [
+      76.04,
+      11.82
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-15",
+    "name": "Mananthavady\u2013Payyampally Road",
+    "class": "District",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Mananthavady",
+     "Edavaka",
+     "Payyampally"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.225,
+      11.698
+     ],
+     [
+      76.19,
+      11.69
+     ],
+     [
+      76.26,
+      11.7
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-16",
+    "name": "Kambalakkad\u2013Vengappally Loop",
+    "class": "Village",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Kambalakkad",
+     "Vengappally",
+     "Chekadi"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.128,
+      11.678
+     ],
+     [
+      76.235,
+      11.585
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-17",
+    "name": "Mundakkai\u2013Noolpuzha Forest Track",
+    "class": "Village",
+    "status": "blocked",
+    "flood_depth_cm": 120,
+    "surface": "tarmac",
+    "connects": [
+     "Mundakkai",
+     "Noolpuzha"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.09,
+      11.745
+     ],
+     [
+      76.07,
+      11.77
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-18",
+    "name": "Pozhuthana\u2013Thondernad Link",
+    "class": "Village",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Pozhuthana",
+     "Thondernad"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.145,
+      11.7
+     ],
+     [
+      76.15,
+      11.68
+     ],
+     [
+      76.19,
+      11.69
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-19",
+    "name": "Meppadi\u2013Purakkadi Road",
+    "class": "Village",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Meppadi",
+     "Purakkadi",
+     "Vengappally"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.262,
+      11.66
+     ],
+     [
+      76.3,
+      11.64
+     ],
+     [
+      76.28,
+      11.62
+     ],
+     [
+      76.295,
+      11.612
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-20",
+    "name": "Sultan Bathery\u2013Nambiarkunnu Road",
+    "class": "Village",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Sultan Bathery",
+     "Kidanganad",
+     "Nambiarkunnu",
+     "Nambiarkunnu East"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  }
+ ]
+}

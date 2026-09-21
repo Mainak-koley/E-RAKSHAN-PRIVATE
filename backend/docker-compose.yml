@@ -1,0 +1,53 @@
+services:
+  db:
+    image: postgis/postgis:16-3.5
+    entrypoint: ["/bin/bash", "/usr/local/bin/docker-entrypoint.sh"]
+    command: ["postgres"]
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-erakshan}
+      POSTGRES_USER: ${POSTGRES_USER:-erakshan}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-erakshan}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-erakshan} -d ${POSTGRES_DB:-erakshan}"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+
+  backend:
+    build: .
+    env_file:
+      - .env
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+      - ../e-rakshan-frontend:/e-rakshan-frontend
+  celery:
+    build: .
+    env_file:
+      - .env
+    command: celery -A config worker -l info
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    volumes:
+      - .:/app
+
+volumes:
+  postgres_data:

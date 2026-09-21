@@ -1,0 +1,348 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.208,
+     11.716
+    ]
+   },
+   "properties": {
+    "id": "SITE-01",
+    "name": "Kalpetta Civil Station Complex",
+    "type": "Community Hall",
+    "area_ha": 3.7,
+    "hazard_safety": 0.96,
+    "capacity_score": 0.88,
+    "connectivity": 0.92,
+    "terrain": 0.9,
+    "livelihood": 0.85,
+    "services": 0.94,
+    "suitability": 91.6,
+    "amenities": [
+     "water",
+     "medical",
+     "power",
+     "sanitation"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.212,
+     11.706
+    ]
+   },
+   "properties": {
+    "id": "SITE-02",
+    "name": "SKJSS Higher Secondary Campus",
+    "type": "School Campus",
+    "area_ha": 4.2,
+    "hazard_safety": 0.93,
+    "capacity_score": 0.84,
+    "connectivity": 0.9,
+    "terrain": 0.86,
+    "livelihood": 0.8,
+    "services": 0.88,
+    "suitability": 87.9,
+    "amenities": [
+     "water",
+     "sanitation",
+     "power"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.242,
+     11.753
+    ]
+   },
+   "properties": {
+    "id": "SITE-03",
+    "name": "Banasura Hill Terrace",
+    "type": "Elevated Ground",
+    "area_ha": 6.1,
+    "hazard_safety": 0.97,
+    "capacity_score": 0.62,
+    "connectivity": 0.66,
+    "terrain": 0.88,
+    "livelihood": 0.58,
+    "services": 0.44,
+    "suitability": 74.8,
+    "amenities": [
+     "water",
+     "helipad"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.265,
+     11.663
+    ]
+   },
+   "properties": {
+    "id": "SITE-04",
+    "name": "Sultan Bathery Fort Precinct",
+    "type": "Temple Precinct",
+    "area_ha": 1.8,
+    "hazard_safety": 0.94,
+    "capacity_score": 0.78,
+    "connectivity": 0.9,
+    "terrain": 0.88,
+    "livelihood": 0.82,
+    "services": 0.86,
+    "suitability": 87.3,
+    "amenities": [
+     "water",
+     "power",
+     "sanitation",
+     "medical"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.221,
+     11.64
+    ]
+   },
+   "properties": {
+    "id": "SITE-05",
+    "name": "RARS Ambalavayal Campus",
+    "type": "Institutional Campus",
+    "area_ha": 1.9,
+    "hazard_safety": 0.92,
+    "capacity_score": 0.86,
+    "connectivity": 0.84,
+    "terrain": 0.86,
+    "livelihood": 0.88,
+    "services": 0.9,
+    "suitability": 88.1,
+    "amenities": [
+     "water",
+     "medical",
+     "power",
+     "sanitation"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.008,
+     11.806
+    ]
+   },
+   "properties": {
+    "id": "SITE-06",
+    "name": "Mananthavady Kurichya Ground",
+    "type": "Elevated Ground",
+    "area_ha": 3.7,
+    "hazard_safety": 0.9,
+    "capacity_score": 0.74,
+    "connectivity": 0.88,
+    "terrain": 0.84,
+    "livelihood": 0.76,
+    "services": 0.7,
+    "suitability": 82.2,
+    "amenities": [
+     "water",
+     "sanitation"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.288,
+     11.759
+    ]
+   },
+   "properties": {
+    "id": "SITE-07",
+    "name": "Panamaram School Campus",
+    "type": "School Campus",
+    "area_ha": 4.0,
+    "hazard_safety": 0.84,
+    "capacity_score": 0.8,
+    "connectivity": 0.86,
+    "terrain": 0.82,
+    "livelihood": 0.78,
+    "services": 0.74,
+    "suitability": 81.6,
+    "amenities": [
+     "water",
+     "power"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.186,
+     11.614
+    ]
+   },
+   "properties": {
+    "id": "SITE-08",
+    "name": "Meenangadi Estate Terrace",
+    "type": "Terraced Field",
+    "area_ha": 4.2,
+    "hazard_safety": 0.88,
+    "capacity_score": 0.66,
+    "connectivity": 0.72,
+    "terrain": 0.84,
+    "livelihood": 0.86,
+    "services": 0.48,
+    "suitability": 76.4,
+    "amenities": [
+     "water"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.315,
+     11.61
+    ]
+   },
+   "properties": {
+    "id": "SITE-09",
+    "name": "Pulpally Church Ground",
+    "type": "Community Hall",
+    "area_ha": 2.9,
+    "hazard_safety": 0.86,
+    "capacity_score": 0.72,
+    "connectivity": 0.78,
+    "terrain": 0.82,
+    "livelihood": 0.8,
+    "services": 0.72,
+    "suitability": 79.4,
+    "amenities": [
+     "water",
+     "sanitation",
+     "power"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.152,
+     11.747
+    ]
+   },
+   "properties": {
+    "id": "SITE-10",
+    "name": "Vythiri Ridge Field",
+    "type": "Elevated Ground",
+    "area_ha": 5.2,
+    "hazard_safety": 0.95,
+    "capacity_score": 0.58,
+    "connectivity": 0.7,
+    "terrain": 0.86,
+    "livelihood": 0.54,
+    "services": 0.5,
+    "suitability": 73.9,
+    "amenities": [
+     "helipad",
+     "water"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.187,
+     11.708
+    ]
+   },
+   "properties": {
+    "id": "SITE-11",
+    "name": "Muttil Community Hall",
+    "type": "Community Hall",
+    "area_ha": 3.5,
+    "hazard_safety": 0.9,
+    "capacity_score": 0.76,
+    "connectivity": 0.88,
+    "terrain": 0.84,
+    "livelihood": 0.78,
+    "services": 0.82,
+    "suitability": 84.0,
+    "amenities": [
+     "water",
+     "power",
+     "medical"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.23,
+     11.69
+    ]
+   },
+   "properties": {
+    "id": "SITE-12",
+    "name": "Chundakka Elevated Field",
+    "type": "Elevated Ground",
+    "area_ha": 5.5,
+    "hazard_safety": 0.89,
+    "capacity_score": 0.64,
+    "connectivity": 0.8,
+    "terrain": 0.8,
+    "livelihood": 0.7,
+    "services": 0.52,
+    "suitability": 75.7,
+    "amenities": [
+     "water"
+    ],
+    "verification": "digitised candidate \u2014 requires field verification"
+   }
+  }
+ ]
+}

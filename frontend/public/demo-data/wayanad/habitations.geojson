@@ -1,0 +1,1193 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.205,
+     11.713
+    ]
+   },
+   "properties": {
+    "id": "HAB-01",
+    "name": "Kalpetta",
+    "panchayath": "Kalpetta",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 31500,
+    "households": 8031,
+    "elderly_pct": 9.4,
+    "children_pct": 16.7,
+    "disabled_pct": 1.7,
+    "fragile_housing_pct": 13.3,
+    "no_vehicle_pct": 24.7,
+    "dist_hospital_km": 6.4,
+    "elevation_m": 780,
+    "slope_deg": 6,
+    "dist_river_km": 1.8,
+    "drainage_index": 0.72,
+    "rainfall24_mm": 50.7,
+    "hist_events": 2,
+    "event_exposure": 0.54,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.135,
+     11.683
+    ]
+   },
+   "properties": {
+    "id": "HAB-02",
+    "name": "Chooralmala",
+    "panchayath": "Meppadi",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 2140,
+    "households": 479,
+    "elderly_pct": 10.5,
+    "children_pct": 14.5,
+    "disabled_pct": 1.3,
+    "fragile_housing_pct": 26.7,
+    "no_vehicle_pct": 64.0,
+    "dist_hospital_km": 11.4,
+    "elevation_m": 1120,
+    "slope_deg": 31,
+    "dist_river_km": 0.4,
+    "drainage_index": 0.28,
+    "rainfall24_mm": 45.2,
+    "hist_events": 5,
+    "event_exposure": 0.79,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.128,
+     11.678
+    ]
+   },
+   "properties": {
+    "id": "HAB-03",
+    "name": "Mundakkai",
+    "panchayath": "Meppadi",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 1180,
+    "households": 284,
+    "elderly_pct": 14.3,
+    "children_pct": 11.4,
+    "disabled_pct": 2.1,
+    "fragile_housing_pct": 30.2,
+    "no_vehicle_pct": 46.6,
+    "dist_hospital_km": 13.6,
+    "elevation_m": 1160,
+    "slope_deg": 34,
+    "dist_river_km": 0.3,
+    "drainage_index": 0.22,
+    "rainfall24_mm": 38.1,
+    "hist_events": 6,
+    "event_exposure": 0.7,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.142,
+     11.688
+    ]
+   },
+   "properties": {
+    "id": "HAB-04",
+    "name": "Attamala",
+    "panchayath": "Meppadi",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 940,
+    "households": 216,
+    "elderly_pct": 13.2,
+    "children_pct": 17.3,
+    "disabled_pct": 2.8,
+    "fragile_housing_pct": 41.6,
+    "no_vehicle_pct": 76.9,
+    "dist_hospital_km": 9.8,
+    "elevation_m": 1090,
+    "slope_deg": 29,
+    "dist_river_km": 0.5,
+    "drainage_index": 0.3,
+    "rainfall24_mm": 65.1,
+    "hist_events": 4,
+    "event_exposure": 0.88,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.145,
+     11.7
+    ]
+   },
+   "properties": {
+    "id": "HAB-05",
+    "name": "Meppadi",
+    "panchayath": "Meppadi",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 5600,
+    "households": 1367,
+    "elderly_pct": 13.0,
+    "children_pct": 16.3,
+    "disabled_pct": 1.3,
+    "fragile_housing_pct": 28.0,
+    "no_vehicle_pct": 49.6,
+    "dist_hospital_km": 6.8,
+    "elevation_m": 980,
+    "slope_deg": 22,
+    "dist_river_km": 1.1,
+    "drainage_index": 0.45,
+    "rainfall24_mm": 46.0,
+    "hist_events": 4,
+    "event_exposure": 0.59,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.155,
+     11.745
+    ]
+   },
+   "properties": {
+    "id": "HAB-06",
+    "name": "Vythiri",
+    "panchayath": "Vythiri",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 3800,
+    "households": 889,
+    "elderly_pct": 14.8,
+    "children_pct": 11.5,
+    "disabled_pct": 2.0,
+    "fragile_housing_pct": 47.5,
+    "no_vehicle_pct": 66.1,
+    "dist_hospital_km": 12.8,
+    "elevation_m": 1010,
+    "slope_deg": 24,
+    "dist_river_km": 1.4,
+    "drainage_index": 0.55,
+    "rainfall24_mm": 36.3,
+    "hist_events": 3,
+    "event_exposure": 0.8,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.143,
+     11.756
+    ]
+   },
+   "properties": {
+    "id": "HAB-07",
+    "name": "Lakkidi",
+    "panchayath": "Vythiri",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 1750,
+    "households": 430,
+    "elderly_pct": 10.1,
+    "children_pct": 13.4,
+    "disabled_pct": 3.4,
+    "fragile_housing_pct": 46.2,
+    "no_vehicle_pct": 60.3,
+    "dist_hospital_km": 12.8,
+    "elevation_m": 930,
+    "slope_deg": 26,
+    "dist_river_km": 1.2,
+    "drainage_index": 0.5,
+    "rainfall24_mm": 82.6,
+    "hist_events": 3,
+    "event_exposure": 0.86,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.185,
+     11.705
+    ]
+   },
+   "properties": {
+    "id": "HAB-08",
+    "name": "Muttil",
+    "panchayath": "Muttil",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 7300,
+    "households": 1615,
+    "elderly_pct": 12.2,
+    "children_pct": 13.6,
+    "disabled_pct": 1.3,
+    "fragile_housing_pct": 31.9,
+    "no_vehicle_pct": 36.7,
+    "dist_hospital_km": 6.3,
+    "elevation_m": 860,
+    "slope_deg": 12,
+    "dist_river_km": 1.6,
+    "drainage_index": 0.62,
+    "rainfall24_mm": 30.8,
+    "hist_events": 2,
+    "event_exposure": 0.5,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.225,
+     11.698
+    ]
+   },
+   "properties": {
+    "id": "HAB-09",
+    "name": "Kambalakkad",
+    "panchayath": "Muttil",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 8900,
+    "households": 2195,
+    "elderly_pct": 10.8,
+    "children_pct": 12.4,
+    "disabled_pct": 1.7,
+    "fragile_housing_pct": 23.5,
+    "no_vehicle_pct": 28.8,
+    "dist_hospital_km": 5.5,
+    "elevation_m": 820,
+    "slope_deg": 9,
+    "dist_river_km": 2.2,
+    "drainage_index": 0.66,
+    "rainfall24_mm": 71.9,
+    "hist_events": 3,
+    "event_exposure": 0.46,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.19,
+     11.69
+    ]
+   },
+   "properties": {
+    "id": "HAB-10",
+    "name": "Vengappally",
+    "panchayath": "Vengappally",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 3100,
+    "households": 743,
+    "elderly_pct": 11.0,
+    "children_pct": 10.8,
+    "disabled_pct": 1.3,
+    "fragile_housing_pct": 12.6,
+    "no_vehicle_pct": 38.3,
+    "dist_hospital_km": 6.8,
+    "elevation_m": 840,
+    "slope_deg": 11,
+    "dist_river_km": 1.9,
+    "drainage_index": 0.6,
+    "rainfall24_mm": 43.3,
+    "hist_events": 2,
+    "event_exposure": 0.33,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.1,
+     11.72
+    ]
+   },
+   "properties": {
+    "id": "HAB-11",
+    "name": "Thariyode",
+    "panchayath": "Pozhuthana",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 2400,
+    "households": 551,
+    "elderly_pct": 12.7,
+    "children_pct": 18.7,
+    "disabled_pct": 3.1,
+    "fragile_housing_pct": 18.5,
+    "no_vehicle_pct": 66.8,
+    "dist_hospital_km": 12.8,
+    "elevation_m": 900,
+    "slope_deg": 18,
+    "dist_river_km": 1.0,
+    "drainage_index": 0.48,
+    "rainfall24_mm": 64.2,
+    "hist_events": 3,
+    "event_exposure": 0.66,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.09,
+     11.745
+    ]
+   },
+   "properties": {
+    "id": "HAB-12",
+    "name": "Pozhuthana",
+    "panchayath": "Pozhuthana",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 2600,
+    "households": 654,
+    "elderly_pct": 11.1,
+    "children_pct": 11.4,
+    "disabled_pct": 1.2,
+    "fragile_housing_pct": 49.8,
+    "no_vehicle_pct": 66.8,
+    "dist_hospital_km": 15.7,
+    "elevation_m": 940,
+    "slope_deg": 19,
+    "dist_river_km": 0.9,
+    "drainage_index": 0.46,
+    "rainfall24_mm": 77.7,
+    "hist_events": 3,
+    "event_exposure": 0.75,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.07,
+     11.77
+    ]
+   },
+   "properties": {
+    "id": "HAB-13",
+    "name": "Thondernad",
+    "panchayath": "Thavinhal",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 1900,
+    "households": 487,
+    "elderly_pct": 11.1,
+    "children_pct": 15.8,
+    "disabled_pct": 2.5,
+    "fragile_housing_pct": 24.7,
+    "no_vehicle_pct": 68.5,
+    "dist_hospital_km": 11.4,
+    "elevation_m": 960,
+    "slope_deg": 21,
+    "dist_river_km": 1.1,
+    "drainage_index": 0.44,
+    "rainfall24_mm": 78.7,
+    "hist_events": 2,
+    "event_exposure": 0.76,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.09,
+     11.735
+    ]
+   },
+   "properties": {
+    "id": "HAB-14",
+    "name": "Kaniambetta",
+    "panchayath": "Kaniambetta",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 4300,
+    "households": 1087,
+    "elderly_pct": 11.0,
+    "children_pct": 11.0,
+    "disabled_pct": 2.0,
+    "fragile_housing_pct": 33.6,
+    "no_vehicle_pct": 43.0,
+    "dist_hospital_km": 3.4,
+    "elevation_m": 900,
+    "slope_deg": 16,
+    "dist_river_km": 1.3,
+    "drainage_index": 0.52,
+    "rainfall24_mm": 32.5,
+    "hist_events": 2,
+    "event_exposure": 0.53,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.235,
+     11.755
+    ]
+   },
+   "properties": {
+    "id": "HAB-15",
+    "name": "Padinjarethara",
+    "panchayath": "Vythiri",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 3400,
+    "households": 786,
+    "elderly_pct": 12.3,
+    "children_pct": 18.8,
+    "disabled_pct": 2.4,
+    "fragile_housing_pct": 13.0,
+    "no_vehicle_pct": 39.2,
+    "dist_hospital_km": 7.7,
+    "elevation_m": 880,
+    "slope_deg": 13,
+    "dist_river_km": 1.5,
+    "drainage_index": 0.58,
+    "rainfall24_mm": 27.9,
+    "hist_events": 2,
+    "event_exposure": 0.51,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.292,
+     11.757
+    ]
+   },
+   "properties": {
+    "id": "HAB-16",
+    "name": "Panamaram",
+    "panchayath": "Panamaram",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 12400,
+    "households": 2941,
+    "elderly_pct": 12.7,
+    "children_pct": 16.8,
+    "disabled_pct": 2.7,
+    "fragile_housing_pct": 27.1,
+    "no_vehicle_pct": 32.4,
+    "dist_hospital_km": 6.0,
+    "elevation_m": 790,
+    "slope_deg": 7,
+    "dist_river_km": 0.8,
+    "drainage_index": 0.55,
+    "rainfall24_mm": 40.4,
+    "hist_events": 3,
+    "event_exposure": 0.66,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.15,
+     11.775
+    ]
+   },
+   "properties": {
+    "id": "HAB-17",
+    "name": "Kenichira",
+    "panchayath": "Thavinhal",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 5200,
+    "households": 1146,
+    "elderly_pct": 9.9,
+    "children_pct": 13.0,
+    "disabled_pct": 2.5,
+    "fragile_housing_pct": 15.5,
+    "no_vehicle_pct": 27.7,
+    "dist_hospital_km": 2.4,
+    "elevation_m": 850,
+    "slope_deg": 10,
+    "dist_river_km": 1.7,
+    "drainage_index": 0.6,
+    "rainfall24_mm": 55.9,
+    "hist_events": 2,
+    "event_exposure": 0.39,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.003,
+     11.802
+    ]
+   },
+   "properties": {
+    "id": "HAB-18",
+    "name": "Mananthavady",
+    "panchayath": "Mananthavady",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 24100,
+    "households": 5416,
+    "elderly_pct": 9.3,
+    "children_pct": 12.1,
+    "disabled_pct": 2.7,
+    "fragile_housing_pct": 15.1,
+    "no_vehicle_pct": 25.4,
+    "dist_hospital_km": 7.6,
+    "elevation_m": 760,
+    "slope_deg": 6,
+    "dist_river_km": 1.2,
+    "drainage_index": 0.7,
+    "rainfall24_mm": 52.3,
+    "hist_events": 3,
+    "event_exposure": 0.49,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.07,
+     11.81
+    ]
+   },
+   "properties": {
+    "id": "HAB-19",
+    "name": "Edavaka",
+    "panchayath": "Edavaka",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 4100,
+    "households": 1033,
+    "elderly_pct": 9.8,
+    "children_pct": 10.9,
+    "disabled_pct": 2.1,
+    "fragile_housing_pct": 20.2,
+    "no_vehicle_pct": 34.1,
+    "dist_hospital_km": 6.4,
+    "elevation_m": 800,
+    "slope_deg": 8,
+    "dist_river_km": 1.9,
+    "drainage_index": 0.64,
+    "rainfall24_mm": 58.4,
+    "hist_events": 1,
+    "event_exposure": 0.69,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.04,
+     11.82
+    ]
+   },
+   "properties": {
+    "id": "HAB-20",
+    "name": "Payyampally",
+    "panchayath": "Mananthavady",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 3600,
+    "households": 797,
+    "elderly_pct": 11.9,
+    "children_pct": 17.2,
+    "disabled_pct": 1.4,
+    "fragile_housing_pct": 14.6,
+    "no_vehicle_pct": 35.9,
+    "dist_hospital_km": 2.8,
+    "elevation_m": 780,
+    "slope_deg": 7,
+    "dist_river_km": 1.4,
+    "drainage_index": 0.66,
+    "rainfall24_mm": 29.0,
+    "hist_events": 1,
+    "event_exposure": 0.49,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     75.98,
+     11.85
+    ]
+   },
+   "properties": {
+    "id": "HAB-21",
+    "name": "Thirunelly",
+    "panchayath": "Thirunelly",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 1600,
+    "households": 356,
+    "elderly_pct": 12.1,
+    "children_pct": 17.8,
+    "disabled_pct": 2.4,
+    "fragile_housing_pct": 20.2,
+    "no_vehicle_pct": 78.0,
+    "dist_hospital_km": 14.4,
+    "elevation_m": 920,
+    "slope_deg": 17,
+    "dist_river_km": 1.6,
+    "drainage_index": 0.5,
+    "rainfall24_mm": 90.1,
+    "hist_events": 1,
+    "event_exposure": 0.92,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.02,
+     11.83
+    ]
+   },
+   "properties": {
+    "id": "HAB-22",
+    "name": "Bavali",
+    "panchayath": "Thirunelly",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 1400,
+    "households": 314,
+    "elderly_pct": 11.8,
+    "children_pct": 14.3,
+    "disabled_pct": 3.1,
+    "fragile_housing_pct": 57.7,
+    "no_vehicle_pct": 44.6,
+    "dist_hospital_km": 6.0,
+    "elevation_m": 830,
+    "slope_deg": 12,
+    "dist_river_km": 0.7,
+    "drainage_index": 0.4,
+    "rainfall24_mm": 55.4,
+    "hist_events": 2,
+    "event_exposure": 0.92,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.262,
+     11.66
+    ]
+   },
+   "properties": {
+    "id": "HAB-23",
+    "name": "Sultan Bathery",
+    "panchayath": "Sultan Bathery",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 23500,
+    "households": 5458,
+    "elderly_pct": 10.7,
+    "children_pct": 18.6,
+    "disabled_pct": 3.4,
+    "fragile_housing_pct": 23.3,
+    "no_vehicle_pct": 40.7,
+    "dist_hospital_km": 2.9,
+    "elevation_m": 850,
+    "slope_deg": 8,
+    "dist_river_km": 2.4,
+    "drainage_index": 0.74,
+    "rainfall24_mm": 35.8,
+    "hist_events": 2,
+    "event_exposure": 0.69,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.217,
+     11.637
+    ]
+   },
+   "properties": {
+    "id": "HAB-24",
+    "name": "Ambalavayal",
+    "panchayath": "Ambalavayal",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 7800,
+    "households": 1734,
+    "elderly_pct": 9.2,
+    "children_pct": 12.8,
+    "disabled_pct": 1.3,
+    "fragile_housing_pct": 21.4,
+    "no_vehicle_pct": 45.9,
+    "dist_hospital_km": 5.2,
+    "elevation_m": 870,
+    "slope_deg": 10,
+    "dist_river_km": 2.0,
+    "drainage_index": 0.68,
+    "rainfall24_mm": 21.4,
+    "hist_events": 2,
+    "event_exposure": 0.5,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.19,
+     11.617
+    ]
+   },
+   "properties": {
+    "id": "HAB-25",
+    "name": "Meenangadi",
+    "panchayath": "Meenangadi",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 6900,
+    "households": 1645,
+    "elderly_pct": 11.4,
+    "children_pct": 16.1,
+    "disabled_pct": 1.7,
+    "fragile_housing_pct": 12.9,
+    "no_vehicle_pct": 45.1,
+    "dist_hospital_km": 3.5,
+    "elevation_m": 840,
+    "slope_deg": 14,
+    "dist_river_km": 1.1,
+    "drainage_index": 0.5,
+    "rainfall24_mm": 53.7,
+    "hist_events": 3,
+    "event_exposure": 0.55,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.235,
+     11.585
+    ]
+   },
+   "properties": {
+    "id": "HAB-26",
+    "name": "Noolpuzha",
+    "panchayath": "Noolpuzha",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 3300,
+    "households": 781,
+    "elderly_pct": 13.0,
+    "children_pct": 12.8,
+    "disabled_pct": 1.8,
+    "fragile_housing_pct": 47.5,
+    "no_vehicle_pct": 50.6,
+    "dist_hospital_km": 8.7,
+    "elevation_m": 900,
+    "slope_deg": 16,
+    "dist_river_km": 0.9,
+    "drainage_index": 0.44,
+    "rainfall24_mm": 39.9,
+    "hist_events": 2,
+    "event_exposure": 0.81,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.318,
+     11.607
+    ]
+   },
+   "properties": {
+    "id": "HAB-27",
+    "name": "Pulpally",
+    "panchayath": "Pulpally",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 9200,
+    "households": 2330,
+    "elderly_pct": 9.0,
+    "children_pct": 15.6,
+    "disabled_pct": 2.4,
+    "fragile_housing_pct": 12.4,
+    "no_vehicle_pct": 36.0,
+    "dist_hospital_km": 5.0,
+    "elevation_m": 820,
+    "slope_deg": 9,
+    "dist_river_km": 2.6,
+    "drainage_index": 0.62,
+    "rainfall24_mm": 25.9,
+    "hist_events": 2,
+    "event_exposure": 0.44,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.3,
+     11.64
+    ]
+   },
+   "properties": {
+    "id": "HAB-28",
+    "name": "Kidanganad",
+    "panchayath": "Sultan Bathery",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 3800,
+    "households": 849,
+    "elderly_pct": 10.5,
+    "children_pct": 11.4,
+    "disabled_pct": 3.0,
+    "fragile_housing_pct": 26.9,
+    "no_vehicle_pct": 37.9,
+    "dist_hospital_km": 7.9,
+    "elevation_m": 840,
+    "slope_deg": 10,
+    "dist_river_km": 2.2,
+    "drainage_index": 0.64,
+    "rainfall24_mm": 57.2,
+    "hist_events": 1,
+    "event_exposure": 0.3,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.28,
+     11.62
+    ]
+   },
+   "properties": {
+    "id": "HAB-29",
+    "name": "Nambiarkunnu",
+    "panchayath": "Nambiarkunnu",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 2900,
+    "households": 716,
+    "elderly_pct": 12.7,
+    "children_pct": 10.9,
+    "disabled_pct": 3.1,
+    "fragile_housing_pct": 16.3,
+    "no_vehicle_pct": 45.1,
+    "dist_hospital_km": 6.5,
+    "elevation_m": 830,
+    "slope_deg": 11,
+    "dist_river_km": 1.8,
+    "drainage_index": 0.58,
+    "rainfall24_mm": 27.3,
+    "hist_events": 1,
+    "event_exposure": 0.41,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.26,
+     11.7
+    ]
+   },
+   "properties": {
+    "id": "HAB-30",
+    "name": "Chekadi",
+    "panchayath": "Muttil",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 2200,
+    "households": 537,
+    "elderly_pct": 9.8,
+    "children_pct": 15.7,
+    "disabled_pct": 1.8,
+    "fragile_housing_pct": 21.7,
+    "no_vehicle_pct": 45.5,
+    "dist_hospital_km": 7.1,
+    "elevation_m": 810,
+    "slope_deg": 9,
+    "dist_river_km": 1.5,
+    "drainage_index": 0.6,
+    "rainfall24_mm": 23.5,
+    "hist_events": 2,
+    "event_exposure": 0.47,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.17,
+     11.665
+    ]
+   },
+   "properties": {
+    "id": "HAB-31",
+    "name": "Kavumannam",
+    "panchayath": "Kavumannam",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 4200,
+    "households": 920,
+    "elderly_pct": 10.3,
+    "children_pct": 11.2,
+    "disabled_pct": 3.4,
+    "fragile_housing_pct": 13.9,
+    "no_vehicle_pct": 33.5,
+    "dist_hospital_km": 6.2,
+    "elevation_m": 860,
+    "slope_deg": 12,
+    "dist_river_km": 1.3,
+    "drainage_index": 0.56,
+    "rainfall24_mm": 51.7,
+    "hist_events": 2,
+    "event_exposure": 0.34,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.15,
+     11.68
+    ]
+   },
+   "properties": {
+    "id": "HAB-32",
+    "name": "Purakkadi",
+    "panchayath": "Meppadi",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 2800,
+    "households": 621,
+    "elderly_pct": 11.2,
+    "children_pct": 17.5,
+    "disabled_pct": 2.5,
+    "fragile_housing_pct": 13.6,
+    "no_vehicle_pct": 25.3,
+    "dist_hospital_km": 3.8,
+    "elevation_m": 880,
+    "slope_deg": 13,
+    "dist_river_km": 1.0,
+    "drainage_index": 0.52,
+    "rainfall24_mm": 71.9,
+    "hist_events": 2,
+    "event_exposure": 0.62,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.25,
+     11.64
+    ]
+   },
+   "properties": {
+    "id": "HAB-33",
+    "name": "Varadoor",
+    "panchayath": "Pulpally",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 2500,
+    "households": 549,
+    "elderly_pct": 9.8,
+    "children_pct": 12.2,
+    "disabled_pct": 1.4,
+    "fragile_housing_pct": 28.7,
+    "no_vehicle_pct": 45.0,
+    "dist_hospital_km": 4.4,
+    "elevation_m": 850,
+    "slope_deg": 9,
+    "dist_river_km": 2.1,
+    "drainage_index": 0.63,
+    "rainfall24_mm": 55.2,
+    "hist_events": 1,
+    "event_exposure": 0.36,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.17,
+     11.725
+    ]
+   },
+   "properties": {
+    "id": "HAB-34",
+    "name": "Vellarmundi",
+    "panchayath": "Vythiri",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 3300,
+    "households": 732,
+    "elderly_pct": 12.9,
+    "children_pct": 17.3,
+    "disabled_pct": 3.1,
+    "fragile_housing_pct": 10.6,
+    "no_vehicle_pct": 41.2,
+    "dist_hospital_km": 4.0,
+    "elevation_m": 900,
+    "slope_deg": 14,
+    "dist_river_km": 1.2,
+    "drainage_index": 0.54,
+    "rainfall24_mm": 73.8,
+    "hist_events": 2,
+    "event_exposure": 0.62,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.15,
+     11.65
+    ]
+   },
+   "properties": {
+    "id": "HAB-35",
+    "name": "Poothadi",
+    "panchayath": "Poothadi",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 4700,
+    "households": 1142,
+    "elderly_pct": 10.1,
+    "children_pct": 17.1,
+    "disabled_pct": 1.4,
+    "fragile_housing_pct": 30.9,
+    "no_vehicle_pct": 44.3,
+    "dist_hospital_km": 3.3,
+    "elevation_m": 870,
+    "slope_deg": 12,
+    "dist_river_km": 1.2,
+    "drainage_index": 0.55,
+    "rainfall24_mm": 67.0,
+    "hist_events": 2,
+    "event_exposure": 0.48,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.295,
+     11.612
+    ]
+   },
+   "properties": {
+    "id": "HAB-36",
+    "name": "Nambiarkunnu East",
+    "panchayath": "Nambiarkunnu",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "population": 1700,
+    "households": 388,
+    "elderly_pct": 9.9,
+    "children_pct": 15.9,
+    "disabled_pct": 2.1,
+    "fragile_housing_pct": 16.7,
+    "no_vehicle_pct": 23.8,
+    "dist_hospital_km": 6.6,
+    "elevation_m": 820,
+    "slope_deg": 10,
+    "dist_river_km": 2.3,
+    "drainage_index": 0.6,
+    "rainfall24_mm": 39.1,
+    "hist_events": 1,
+    "event_exposure": 0.5,
+    "census_note": "Census baseline with documented growth estimate \u2014 treat as estimate"
+   }
+  }
+ ]
+}

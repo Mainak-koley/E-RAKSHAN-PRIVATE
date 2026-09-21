@@ -1,0 +1,341 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.131,
+       11.6704
+      ],
+      [
+       76.1291,
+       11.6784
+      ],
+      [
+       76.1427,
+       11.6883
+      ],
+      [
+       76.1504,
+       11.6855
+      ],
+      [
+       76.1267,
+       11.6895
+      ],
+      [
+       76.1257,
+       11.6815
+      ],
+      [
+       76.131,
+       11.6704
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RZ-01",
+    "name": "Chooralmala\u2013Mundakkai Slope",
+    "hazard_type": "Landslide",
+    "severity": 0.82,
+    "probability": 0.71,
+    "population_exposed": 3320,
+    "source": "GSI susceptibility + IMD rainfall blend",
+    "valid_from": "2026-09-12T06:37:05.798190Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.2391,
+       11.732
+      ],
+      [
+       76.2646,
+       11.7271
+      ],
+      [
+       76.2566,
+       11.7555
+      ],
+      [
+       76.253,
+       11.7779
+      ],
+      [
+       76.2345,
+       11.7766
+      ],
+      [
+       76.2269,
+       11.7452
+      ],
+      [
+       76.2391,
+       11.732
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RZ-02",
+    "name": "Banasura Foreshore",
+    "hazard_type": "Flash Flood",
+    "severity": 0.64,
+    "probability": 0.58,
+    "population_exposed": 3400,
+    "source": "NRSC flood layer + river stage",
+    "valid_from": "2026-09-12T06:37:05.798190Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.2751,
+       11.7595
+      ],
+      [
+       76.3116,
+       11.7465
+      ],
+      [
+       76.3167,
+       11.752
+      ],
+      [
+       76.3089,
+       11.7717
+      ],
+      [
+       76.283,
+       11.7638
+      ],
+      [
+       76.2759,
+       11.7588
+      ],
+      [
+       76.2751,
+       11.7595
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RZ-03",
+    "name": "Panamaram Riverine Belt",
+    "hazard_type": "Riverine Flood",
+    "severity": 0.58,
+    "probability": 0.62,
+    "population_exposed": 12400,
+    "source": "CWC stage + DEM low-lying",
+    "valid_from": "2026-09-12T06:37:05.798190Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       75.9759,
+       11.794
+      ],
+      [
+       76.0106,
+       11.79
+      ],
+      [
+       76.0194,
+       11.8057
+      ],
+      [
+       76.0085,
+       11.824
+      ],
+      [
+       75.9813,
+       11.805
+      ],
+      [
+       75.9832,
+       11.8026
+      ],
+      [
+       75.9759,
+       11.794
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RZ-04",
+    "name": "Kabani Lowlands",
+    "hazard_type": "Riverine Flood",
+    "severity": 0.52,
+    "probability": 0.55,
+    "population_exposed": 24100,
+    "source": "CWC stage + DEM low-lying",
+    "valid_from": "2026-09-12T06:37:05.798190Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.1752,
+       11.6061
+      ],
+      [
+       76.2002,
+       11.6033
+      ],
+      [
+       76.2105,
+       11.629
+      ],
+      [
+       76.2002,
+       11.6308
+      ],
+      [
+       76.1758,
+       11.6279
+      ],
+      [
+       76.1786,
+       11.6052
+      ],
+      [
+       76.1752,
+       11.6061
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RZ-05",
+    "name": "Meenangadi Escarpment",
+    "hazard_type": "Landslide",
+    "severity": 0.47,
+    "probability": 0.41,
+    "population_exposed": 6900,
+    "source": "GSI susceptibility",
+    "valid_from": "2026-09-12T06:37:05.798190Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.3168,
+       11.5924
+      ],
+      [
+       76.3235,
+       11.6009
+      ],
+      [
+       76.3295,
+       11.6001
+      ],
+      [
+       76.3376,
+       11.6242
+      ],
+      [
+       76.3144,
+       11.6169
+      ],
+      [
+       76.3103,
+       11.6093
+      ],
+      [
+       76.3168,
+       11.5924
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RZ-06",
+    "name": "Pulpally Flood Pocket",
+    "hazard_type": "Riverine Flood",
+    "severity": 0.44,
+    "probability": 0.38,
+    "population_exposed": 9200,
+    "source": "NRSC historical inundation",
+    "valid_from": "2026-09-12T06:37:05.798190Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.1362,
+       11.736
+      ],
+      [
+       76.1506,
+       11.725
+      ],
+      [
+       76.1675,
+       11.7604
+      ],
+      [
+       76.1597,
+       11.7708
+      ],
+      [
+       76.1397,
+       11.7513
+      ],
+      [
+       76.1333,
+       11.7522
+      ],
+      [
+       76.1362,
+       11.736
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RZ-07",
+    "name": "Vythiri Ghat Stretch",
+    "hazard_type": "Landslide",
+    "severity": 0.61,
+    "probability": 0.49,
+    "population_exposed": 3800,
+    "source": "GSI susceptibility + rainfall",
+    "valid_from": "2026-09-12T06:37:05.798190Z"
+   }
+  }
+ ]
+}

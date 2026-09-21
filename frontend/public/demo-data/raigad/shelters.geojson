@@ -1,0 +1,327 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.424,
+     18.085
+    ]
+   },
+   "properties": {
+    "id": "SHL-01",
+    "name": "Mahad Municipal Relief Centre",
+    "type": "Civic Complex",
+    "capacity": 1000,
+    "occupancy": 320,
+    "medical_support": true,
+    "water_kl": 38,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Mahad Municipal Council",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.874,
+     18.643
+    ]
+   },
+   "properties": {
+    "id": "SHL-02",
+    "name": "Alibag School Relief Centre",
+    "type": "School Relief Centre",
+    "capacity": 900,
+    "occupancy": 260,
+    "medical_support": true,
+    "water_kl": 30,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Alibag Municipal Council",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.118,
+     18.991
+    ]
+   },
+   "properties": {
+    "id": "SHL-03",
+    "name": "Panvel Community Hall",
+    "type": "Community Hall",
+    "capacity": 1100,
+    "occupancy": 380,
+    "medical_support": true,
+    "water_kl": 42,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Panvel Municipal Corporation",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.327,
+     18.911
+    ]
+   },
+   "properties": {
+    "id": "SHL-04",
+    "name": "Karjat College Camp",
+    "type": "Institutional Campus",
+    "capacity": 800,
+    "occupancy": 210,
+    "medical_support": true,
+    "water_kl": 26,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Karjat Municipal Council",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.346,
+     18.786
+    ]
+   },
+   "properties": {
+    "id": "SHL-05",
+    "name": "Khopoli Civic Shelter",
+    "type": "Civic Complex",
+    "capacity": 700,
+    "occupancy": 240,
+    "medical_support": false,
+    "water_kl": 18,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Khalapur Taluka",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.081,
+     18.441
+    ]
+   },
+   "properties": {
+    "id": "SHL-06",
+    "name": "Roha School Camp",
+    "type": "School Relief Centre",
+    "capacity": 600,
+    "occupancy": 150,
+    "medical_support": true,
+    "water_kl": 20,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Roha Taluka",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.301,
+     18.8005
+    ]
+   },
+   "properties": {
+    "id": "SHL-07",
+    "name": "Chowk Container Township",
+    "type": "Interim Relief Site",
+    "capacity": 240,
+    "occupancy": 180,
+    "medical_support": true,
+    "water_kl": 12,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "CIDCO",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.276,
+     18.8155
+    ]
+   },
+   "properties": {
+    "id": "SHL-08",
+    "name": "Nanivali Transit Homes",
+    "type": "Permanent Rehabilitation",
+    "capacity": 180,
+    "occupancy": 132,
+    "medical_support": true,
+    "water_kl": 10,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "CIDCO",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.271,
+     18.261
+    ]
+   },
+   "properties": {
+    "id": "SHL-09",
+    "name": "Mangaon Panchayat Hall",
+    "type": "Community Hall",
+    "capacity": 450,
+    "occupancy": 90,
+    "medical_support": false,
+    "water_kl": 12,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Mangaon Panchayat",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.941,
+     18.329
+    ]
+   },
+   "properties": {
+    "id": "SHL-10",
+    "name": "Murud School Relief Centre",
+    "type": "School Relief Centre",
+    "capacity": 550,
+    "occupancy": 160,
+    "medical_support": true,
+    "water_kl": 16,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Murud Panchayat",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.097,
+     18.731
+    ]
+   },
+   "properties": {
+    "id": "SHL-11",
+    "name": "Pen Civic Complex",
+    "type": "Civic Complex",
+    "capacity": 500,
+    "occupancy": 120,
+    "medical_support": true,
+    "water_kl": 14,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Pen Taluka",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.467,
+     17.99
+    ]
+   },
+   "properties": {
+    "id": "SHL-12",
+    "name": "Poladpur Hill School Camp",
+    "type": "School Relief Centre",
+    "capacity": 400,
+    "occupancy": 110,
+    "medical_support": true,
+    "water_kl": 11,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Poladpur Panchayat",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.943,
+     18.879
+    ]
+   },
+   "properties": {
+    "id": "SHL-13",
+    "name": "Uran Municipal Hall",
+    "type": "Community Hall",
+    "capacity": 500,
+    "occupancy": 70,
+    "medical_support": false,
+    "water_kl": 13,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Uran Municipal Council",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.991,
+     18.046
+    ]
+   },
+   "properties": {
+    "id": "SHL-14",
+    "name": "Shrivardhan Community Shelter",
+    "type": "Community Hall",
+    "capacity": 350,
+    "occupancy": 95,
+    "medical_support": true,
+    "water_kl": 9,
+    "sanitation_ok": true,
+    "operational": true,
+    "managed_by": "Shrivardhan Panchayat",
+    "capacity_note": "simulated capacity \u2014 requires official verification"
+   }
+  }
+ ]
+}

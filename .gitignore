@@ -1,0 +1,39 @@
+# Python & Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Databases & Storage
+*.sqlite3
+postgres_data/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs & Archives
+*.log
+*.zip
+*.tar.gz
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

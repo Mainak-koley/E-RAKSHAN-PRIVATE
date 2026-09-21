@@ -1,0 +1,181 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.4072,
+     18.1177
+    ]
+   },
+   "properties": {
+    "id": "INC-01",
+    "type": "River Gauge",
+    "severity": "high",
+    "status": "verified",
+    "source": "Weather Station",
+    "description": "Savitri crossed 10.9 m at Dasgaon gauge \u2014 above warning stage, rising 9 cm/hr.",
+    "location_name": "Savitri at Dasgaon",
+    "reported_at": "2026-09-12T06:24:05.798190Z",
+    "authority_confirmed": true,
+    "confidence": 0.53
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.0576,
+     18.5301
+    ]
+   },
+   "properties": {
+    "id": "INC-02",
+    "type": "Landslide",
+    "severity": "critical",
+    "status": "verified",
+    "source": "Field Officer",
+    "description": "Debris flow across the carriageway at Kashedi ghat; one lane cut, PWD clearing.",
+    "location_name": "Kashedi Ghat (NH-66)",
+    "reported_at": "2026-09-12T06:31:05.798190Z",
+    "authority_confirmed": true,
+    "confidence": 0.78
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.3843,
+     18.0476
+    ]
+   },
+   "properties": {
+    "id": "INC-03",
+    "type": "Medical SOS",
+    "severity": "critical",
+    "status": "unverified",
+    "source": "Citizen SOS",
+    "description": "Elderly resident needs evacuation \u2014 approach road cut by slope debris.",
+    "location_name": "Taliye (Kondhalkar)",
+    "reported_at": "2026-09-12T06:38:05.798190Z",
+    "authority_confirmed": false,
+    "confidence": 0.68
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.1013,
+     18.7288
+    ]
+   },
+   "properties": {
+    "id": "INC-04",
+    "type": "Blocked Bridge",
+    "severity": "high",
+    "status": "unverified",
+    "source": "Citizen SOS",
+    "description": "Kundalika suspension bridge closed after dam release surge; approach flooded.",
+    "location_name": "Kolad suspension bridge",
+    "reported_at": "2026-09-12T06:05:05.798190Z",
+    "authority_confirmed": false,
+    "confidence": 0.8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.019,
+     18.1961
+    ]
+   },
+   "properties": {
+    "id": "INC-05",
+    "type": "Flooded Road",
+    "severity": "medium",
+    "status": "responding",
+    "source": "Field Officer",
+    "description": "Tidal water over carriageway near Nanij; traffic controlled.",
+    "location_name": "Murud\u2013Mhasla section",
+    "reported_at": "2026-09-12T04:12:05.798190Z",
+    "authority_confirmed": true,
+    "confidence": 0.75
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.4276,
+     18.0829
+    ]
+   },
+   "properties": {
+    "id": "INC-06",
+    "type": "House Collapse",
+    "severity": "high",
+    "status": "responding",
+    "source": "Citizen SOS",
+    "description": "Wall collapse after seepage; family shifted to municipal relief centre.",
+    "location_name": "Mahad ward 4",
+    "reported_at": "2026-09-12T03:02:05.798190Z",
+    "authority_confirmed": true,
+    "confidence": 0.88
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.1131,
+     18.9859
+    ]
+   },
+   "properties": {
+    "id": "INC-07",
+    "type": "Flooded Road",
+    "severity": "low",
+    "status": "resolved",
+    "source": "Citizen SOS",
+    "description": "Waterlogging receded after pumping.",
+    "location_name": "Panvel market",
+    "reported_at": "2026-09-12T01:52:05.798190Z",
+    "authority_confirmed": true,
+    "confidence": 0.89
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.4471,
+     18.2134
+    ]
+   },
+   "properties": {
+    "id": "INC-08",
+    "type": "Landslide",
+    "severity": "medium",
+    "status": "verified",
+    "source": "Satellite Pass",
+    "description": "Fresh scarps upslope of Ambemachi in post-rainfall imagery \u2014 field check advised.",
+    "location_name": "Ambemachi slope",
+    "reported_at": "2026-09-12T05:42:05.798190Z",
+    "authority_confirmed": true,
+    "confidence": 0.9
+   }
+  }
+ ]
+}

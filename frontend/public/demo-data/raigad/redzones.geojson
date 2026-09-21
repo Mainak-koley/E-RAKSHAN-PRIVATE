@@ -1,0 +1,341 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.3765,
+       18.026
+      ],
+      [
+       73.4002,
+       18.0289
+      ],
+      [
+       73.4093,
+       18.0459
+      ],
+      [
+       73.3871,
+       18.053
+      ],
+      [
+       73.3765,
+       18.0486
+      ],
+      [
+       73.3729,
+       18.046
+      ],
+      [
+       73.3765,
+       18.026
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RZ-01",
+    "name": "Taliye (Kondhalkar) Slope",
+    "hazard_type": "Landslide",
+    "severity": 0.85,
+    "probability": 0.72,
+    "population_exposed": 780,
+    "source": "GSI most-vulnerable \u00b7 2021 event (~85 deaths)",
+    "valid_from": "2026-09-12T06:37:05.798190Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.3148,
+       18.8198
+      ],
+      [
+       73.344,
+       18.8011
+      ],
+      [
+       73.3562,
+       18.8298
+      ],
+      [
+       73.3475,
+       18.8204
+      ],
+      [
+       73.3091,
+       18.8189
+      ],
+      [
+       73.2996,
+       18.8155
+      ],
+      [
+       73.3148,
+       18.8198
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RZ-02",
+    "name": "Irshalwadi\u2013Irshalgad Slope",
+    "hazard_type": "Landslide",
+    "severity": 0.84,
+    "probability": 0.68,
+    "population_exposed": 230,
+    "source": "Mapping-gap zone \u2014 absent from pre-2023 GSI list",
+    "valid_from": "2026-09-12T06:37:05.798190Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.3898,
+       18.0126
+      ],
+      [
+       73.433,
+       17.9932
+      ],
+      [
+       73.4596,
+       18.0673
+      ],
+      [
+       73.4304,
+       18.1013
+      ],
+      [
+       73.407,
+       18.1022
+      ],
+      [
+       73.3782,
+       18.0582
+      ],
+      [
+       73.3898,
+       18.0126
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RZ-03",
+    "name": "Mahad\u2013Poladpur Savitri Belt",
+    "hazard_type": "Riverine Flood",
+    "severity": 0.78,
+    "probability": 0.75,
+    "population_exposed": 25300,
+    "source": "CWC stage history (8.25m \u2192 11.72m record)",
+    "valid_from": "2026-09-12T06:37:05.798190Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.4232,
+       18.2268
+      ],
+      [
+       73.4458,
+       18.2024
+      ],
+      [
+       73.4551,
+       18.2378
+      ],
+      [
+       73.4417,
+       18.2352
+      ],
+      [
+       73.4358,
+       18.2323
+      ],
+      [
+       73.4093,
+       18.2261
+      ],
+      [
+       73.4232,
+       18.2268
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RZ-04",
+    "name": "Ambemachi\u2013Hirkaniwadi Slope",
+    "hazard_type": "Landslide",
+    "severity": 0.68,
+    "probability": 0.55,
+    "population_exposed": 640,
+    "source": "GSI-flagged \u00b7 87 evacuated (2021)",
+    "valid_from": "2026-09-12T06:37:05.798190Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.0737,
+       18.3843
+      ],
+      [
+       73.1186,
+       18.358
+      ],
+      [
+       73.129,
+       18.416
+      ],
+      [
+       73.1046,
+       18.4427
+      ],
+      [
+       73.0617,
+       18.4324
+      ],
+      [
+       73.0472,
+       18.4219
+      ],
+      [
+       73.0737,
+       18.3843
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RZ-05",
+    "name": "Kundalika Release Belt (Kolad\u2013Roha)",
+    "hazard_type": "Flash Flood",
+    "severity": 0.62,
+    "probability": 0.52,
+    "population_exposed": 3600,
+    "source": "Dam-release protocol + catchment rainfall",
+    "valid_from": "2026-09-12T06:37:05.798190Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.1301,
+       18.8828
+      ],
+      [
+       73.2156,
+       18.8458
+      ],
+      [
+       73.2692,
+       18.9284
+      ],
+      [
+       73.2173,
+       18.9715
+      ],
+      [
+       73.1332,
+       18.9616
+      ],
+      [
+       73.11,
+       18.9099
+      ],
+      [
+       73.1301,
+       18.8828
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RZ-06",
+    "name": "Patalganga Lowlands (Khalapur\u2013Panvel)",
+    "hazard_type": "Riverine Flood",
+    "severity": 0.56,
+    "probability": 0.5,
+    "population_exposed": 0,
+    "source": "Industrial-corridor drainage deficit",
+    "valid_from": "2026-09-12T06:37:05.798190Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       72.9309,
+       18.1073
+      ],
+      [
+       72.9729,
+       18.0448
+      ],
+      [
+       73.0159,
+       18.2268
+      ],
+      [
+       72.967,
+       18.3259
+      ],
+      [
+       72.9311,
+       18.3013
+      ],
+      [
+       72.9189,
+       18.1822
+      ],
+      [
+       72.9309,
+       18.1073
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RZ-07",
+    "name": "Murud\u2013Shrivardhan Coast",
+    "hazard_type": "Coastal Surge",
+    "severity": 0.5,
+    "probability": 0.45,
+    "population_exposed": 0,
+    "source": "Tidal surge + monsoon spring-tide overlap",
+    "valid_from": "2026-09-12T06:37:05.798190Z"
+   }
+  }
+ ]
+}

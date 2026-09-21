@@ -1,0 +1,60 @@
+/* =====================================================================
+   E-RAKSHAN — typography
+   ===================================================================== */
+:root {
+  --font-ui: 'Inter', 'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-display: 'Bahnschrift', 'Inter', 'Segoe UI', system-ui, sans-serif;
+  --font-mono: ui-monospace, 'Cascadia Code', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
+
+  --fs-xs: 11px;
+  --fs-sm: 12.5px;
+  --fs-base: 14px;
+  --fs-md: 15.5px;
+  --fs-lg: 18px;
+  --fs-xl: 22px;
+  --fs-2xl: 28px;
+  --fs-3xl: 36px;
+}
+
+body {
+  font-family: var(--font-ui);
+  font-size: var(--fs-base);
+  line-height: 1.5;
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4 { font-family: var(--font-display); margin: 0; font-weight: 700; letter-spacing: 0.01em; }
+
+.kicker {
+  font-size: var(--fs-xs);
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--cyan);
+}
+.grad-text {
+  background: var(--grad-hero);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.mono { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+.upper { text-transform: uppercase; letter-spacing: 0.08em; }
+.small { font-size: var(--fs-sm); }
+.tiny { font-size: var(--fs-xs); }
+.text-dim { color: var(--text-dim); }
+.text-faint { color: var(--text-faint); }
+.text-cyan { color: var(--cyan); }
+.text-green { color: var(--green); }
+.text-amber { color: var(--amber); }
+.text-orange { color: var(--orange); }
+.text-red { color: var(--red); }
+.text-purple { color: var(--purple); }
+.text-lime { color: var(--lime); }
+.text-blue { color: var(--blue); }
+.text-right { text-align: right; }
+.strong { font-weight: 700; }
+.ellipsis { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.page-title { font-size: var(--fs-2xl); font-weight: 800; letter-spacing: 0.01em; }
+.page-sub { color: var(--text-dim); font-size: var(--fs-md); margin-top: 2px; }

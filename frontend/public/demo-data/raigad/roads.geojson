@@ -1,0 +1,693 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.117,
+      18.99
+     ],
+     [
+      73.06,
+      18.53
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-01",
+    "name": "NH-66 Panvel\u2013Nagothana",
+    "class": "NH",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Panvel",
+     "Nagothana"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.06,
+      18.53
+     ],
+     [
+      73.118,
+      18.378
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-02",
+    "name": "NH-66 Nagothana\u2013Kolad",
+    "class": "NH",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Nagothana",
+     "Kolad"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.118,
+      18.378
+     ],
+     [
+      73.27,
+      18.26
+     ],
+     [
+      73.422,
+      18.083
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-03",
+    "name": "NH-66 Kolad\u2013Mangaon\u2013Mahad",
+    "class": "NH",
+    "status": "partial",
+    "flood_depth_cm": 26,
+    "surface": "tarmac",
+    "connects": [
+     "Kolad",
+     "Mangaon",
+     "Mahad"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.422,
+      18.083
+     ],
+     [
+      73.44,
+      18.02
+     ],
+     [
+      73.465,
+      17.988
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-04",
+    "name": "NH-66 Mahad\u2013Kashedi\u2013Poladpur",
+    "class": "NH",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Mahad",
+     "Sakhar Sutar Wadi",
+     "Poladpur"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.117,
+      18.99
+     ],
+     [
+      72.895,
+      18.635
+     ],
+     [
+      72.872,
+      18.642
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-05",
+    "name": "Mumbai\u2013Alibag Coastal Highway",
+    "class": "SH",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Panvel",
+     "Thal",
+     "Alibag"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      72.872,
+      18.642
+     ],
+     [
+      72.93,
+      18.545
+     ],
+     [
+      72.94,
+      18.328
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-06",
+    "name": "Alibag\u2013Revdanda\u2013Murud Coast Road",
+    "class": "District",
+    "status": "partial",
+    "flood_depth_cm": 18,
+    "surface": "tarmac",
+    "connects": [
+     "Alibag",
+     "Revdanda",
+     "Murud"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      72.94,
+      18.328
+     ],
+     [
+      73.02,
+      18.19
+     ],
+     [
+      72.99,
+      18.045
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-07",
+    "name": "Murud\u2013Mhasla\u2013Shrivardhan Road",
+    "class": "District",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Murud",
+     "Mhasla",
+     "Shrivardhan"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      72.99,
+      18.045
+     ],
+     [
+      72.987,
+      18.028
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-08",
+    "name": "Shrivardhan\u2013Diveagar Beach Road",
+    "class": "Village",
+    "status": "blocked",
+    "flood_depth_cm": 70,
+    "surface": "tarmac",
+    "connects": [
+     "Shrivardhan",
+     "Diveagar"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.06,
+      18.53
+     ],
+     [
+      73.08,
+      18.44
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-09",
+    "name": "Nagothana\u2013Roha Road",
+    "class": "SH",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Nagothana",
+     "Roha"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.08,
+      18.44
+     ],
+     [
+      73.118,
+      18.378
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-10",
+    "name": "Roha\u2013Kolad Road",
+    "class": "District",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Roha",
+     "Kolad"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.118,
+      18.378
+     ],
+     [
+      73.435,
+      17.955
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-11",
+    "name": "Kolad\u2013Bhira Ghat Road",
+    "class": "District",
+    "status": "partial",
+    "flood_depth_cm": 32,
+    "surface": "tarmac",
+    "connects": [
+     "Kolad",
+     "Bhira"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.422,
+      18.083
+     ],
+     [
+      73.4,
+      18.11
+     ],
+     [
+      73.385,
+      18.045
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-12",
+    "name": "Mahad\u2013Dasgaon\u2013Taliye Road",
+    "class": "District",
+    "status": "blocked",
+    "flood_depth_cm": 105,
+    "surface": "tarmac",
+    "connects": [
+     "Mahad",
+     "Dasgaon",
+     "Taliye"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.422,
+      18.083
+     ],
+     [
+      73.44,
+      18.2
+     ],
+     [
+      73.44,
+      18.22
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-13",
+    "name": "Mahad\u2013Pachad\u2013Ambemachi Road",
+    "class": "District",
+    "status": "partial",
+    "flood_depth_cm": 40,
+    "surface": "tarmac",
+    "connects": [
+     "Mahad",
+     "Pachad",
+     "Ambemachi"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.385,
+      18.045
+     ],
+     [
+      73.36,
+      18.1
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-14",
+    "name": "Taliye\u2013Birwadi Hill Link",
+    "class": "Village",
+    "status": "blocked",
+    "flood_depth_cm": 90,
+    "surface": "tarmac",
+    "connects": [
+     "Taliye",
+     "Birwadi"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.27,
+      18.26
+     ],
+     [
+      73.39,
+      18.17
+     ],
+     [
+      73.36,
+      18.1
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-15",
+    "name": "Mangaon\u2013Nizampur\u2013Birwadi Link",
+    "class": "Village",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Mangaon",
+     "Nizampur",
+     "Birwadi"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.096,
+      18.73
+     ],
+     [
+      73.218,
+      18.703
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-16",
+    "name": "Pen\u2013Pali Road",
+    "class": "District",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Pen",
+     "Pali"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.218,
+      18.703
+     ],
+     [
+      73.345,
+      18.785
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-17",
+    "name": "Pali\u2013Khopoli Road",
+    "class": "District",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Pali",
+     "Khopoli"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.345,
+      18.785
+     ],
+     [
+      73.3,
+      18.8
+     ],
+     [
+      73.325,
+      18.91
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-18",
+    "name": "Khopoli\u2013Chowk\u2013Karjat (NH-4)",
+    "class": "NH",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Khopoli",
+     "Chowk",
+     "Karjat"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.3,
+      18.8
+     ],
+     [
+      73.275,
+      18.815
+     ],
+     [
+      73.335,
+      18.815
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-19",
+    "name": "Chowk\u2013Nanivali\u2013Irshalwadi Trailhead",
+    "class": "Village",
+    "status": "partial",
+    "flood_depth_cm": 15,
+    "surface": "tarmac",
+    "connects": [
+     "Chowk",
+     "Nanivali",
+     "Irshalwadi"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.117,
+      18.99
+     ],
+     [
+      72.942,
+      18.878
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-20",
+    "name": "Panvel\u2013Uran Road",
+    "class": "District",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Panvel",
+     "Uran"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.29,
+      18.83
+     ],
+     [
+      73.275,
+      18.815
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-21",
+    "name": "Khalapur\u2013Morbe\u2013Nanivali Road",
+    "class": "District",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Khalapur",
+     "Nanivali"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      72.987,
+      18.028
+     ],
+     [
+      73.02,
+      18.19
+     ]
+    ]
+   },
+   "properties": {
+    "id": "RD-22",
+    "name": "Diveagar\u2013Mhasla Village Road",
+    "class": "Village",
+    "status": "open",
+    "flood_depth_cm": 0,
+    "surface": "tarmac",
+    "connects": [
+     "Diveagar",
+     "Mhasla"
+    ],
+    "osm_note": "OSM baseline network \u2014 rural coverage may be incomplete (unknown \u2260 safe)"
+   }
+  }
+ ]
+}

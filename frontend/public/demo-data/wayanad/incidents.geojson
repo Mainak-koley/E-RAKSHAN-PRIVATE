@@ -1,0 +1,181 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.2313,
+     11.6968
+    ]
+   },
+   "properties": {
+    "id": "INC-01",
+    "type": "Flooded Road",
+    "severity": "medium",
+    "status": "unverified",
+    "source": "Citizen SOS",
+    "description": "Water crossing the culvert at the junction, two-wheelers stuck.",
+    "location_name": "Kambalakkad junction culvert",
+    "reported_at": "2026-09-12T06:18:05.798190Z",
+    "authority_confirmed": false,
+    "confidence": 0.91
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.2911,
+     11.7515
+    ]
+   },
+   "properties": {
+    "id": "INC-02",
+    "type": "Blocked Bridge",
+    "severity": "high",
+    "status": "verified",
+    "source": "Field Officer",
+    "description": "Debris raft lodged against the central pier; traffic diverted.",
+    "location_name": "Panamaram old bridge",
+    "reported_at": "2026-09-12T06:00:05.798190Z",
+    "authority_confirmed": true,
+    "confidence": 0.89
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.1342,
+     11.687
+    ]
+   },
+   "properties": {
+    "id": "INC-03",
+    "type": "Landslide",
+    "severity": "critical",
+    "status": "verified",
+    "source": "Field Officer",
+    "description": "Debris flow across the carriageway, road fully cut at km 4.",
+    "location_name": "Chooralmala ghat section",
+    "reported_at": "2026-09-12T06:34:05.798190Z",
+    "authority_confirmed": true,
+    "confidence": 0.88
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.1244,
+     11.6824
+    ]
+   },
+   "properties": {
+    "id": "INC-04",
+    "type": "Medical SOS",
+    "severity": "critical",
+    "status": "unverified",
+    "source": "Citizen SOS",
+    "description": "Elderly patient needs dialysis transport \u2014 road cut, requesting helicopter.",
+    "location_name": "Mundakkai",
+    "reported_at": "2026-09-12T06:40:05.798190Z",
+    "authority_confirmed": false,
+    "confidence": 0.72
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.1388,
+     11.755
+    ]
+   },
+   "properties": {
+    "id": "INC-05",
+    "type": "Tree Fall",
+    "severity": "medium",
+    "status": "responding",
+    "source": "Field Officer",
+    "description": "Uprooted tree on the carriageway; PWD crew on site.",
+    "location_name": "Lakkidi NH stretch",
+    "reported_at": "2026-09-12T04:32:05.798190Z",
+    "authority_confirmed": true,
+    "confidence": 0.82
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.3138,
+     11.6044
+    ]
+   },
+   "properties": {
+    "id": "INC-06",
+    "type": "House Collapse",
+    "severity": "high",
+    "status": "responding",
+    "source": "Citizen SOS",
+    "description": "Partial collapse after continuous rain; family moved to neighbours.",
+    "location_name": "Pulpally ward 7",
+    "reported_at": "2026-09-12T03:22:05.798190Z",
+    "authority_confirmed": true,
+    "confidence": 0.9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.1983,
+     11.7074
+    ]
+   },
+   "properties": {
+    "id": "INC-07",
+    "type": "Flooded Road",
+    "severity": "low",
+    "status": "resolved",
+    "source": "Citizen SOS",
+    "description": "Waterlogging receded after pumping.",
+    "location_name": "Kalpetta bus stand",
+    "reported_at": "2026-09-12T01:52:05.798190Z",
+    "authority_confirmed": true,
+    "confidence": 0.67
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.2864,
+     11.7524
+    ]
+   },
+   "properties": {
+    "id": "INC-08",
+    "type": "River Gauge",
+    "severity": "medium",
+    "status": "verified",
+    "source": "Weather Station",
+    "description": "River crossed warning level; inflow rising.",
+    "location_name": "Panamaram gauge",
+    "reported_at": "2026-09-12T06:26:05.798190Z",
+    "authority_confirmed": true,
+    "confidence": 0.69
+   }
+  }
+ ]
+}

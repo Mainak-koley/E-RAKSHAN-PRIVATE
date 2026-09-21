@@ -1,0 +1,33 @@
+# Python / Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database & Environment
+*.sqlite3
+.env
+.env.*
+!.env.example
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Static & Media
+staticfiles/
+media/
+
+# IDE & OS
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+
+# Internal Task / Tracker Files
+task.md
